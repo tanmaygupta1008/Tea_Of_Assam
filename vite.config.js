@@ -13,5 +13,5 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  base: '/Tea-of-assam/', // Replace with your GitHub repository name
+  base: '/Tea_Of_Assam/', // Replace with your GitHub repository name
 });
